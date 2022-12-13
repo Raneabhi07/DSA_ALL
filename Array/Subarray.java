@@ -12,3 +12,4 @@ public class Subarray {
             System.out.println();
         }
     }
+}
